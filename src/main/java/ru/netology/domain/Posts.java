@@ -1,6 +1,6 @@
 package ru.netology.domain;
 
-public class Post {
+public class Posts {
     private int postId;
     private int fromId; //поле из документации
     private int createdBy; //поле из документации
